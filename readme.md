@@ -28,8 +28,13 @@ Have fun with it, we are looking to see how you approach problem solving and cre
 
 -------
 
-# This Framework (yeoman express)
+# This Framework
 
+ - [Node](https://nodejs.org)
+ - [express](https://expressjs.com/)
+ - [less](http://lesscss.org/)
+ - [handlebars](https://handlebarsjs.com/)
+ - [gulp](https://gulpjs.com/)
 
 ### install
 
