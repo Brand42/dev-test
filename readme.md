@@ -12,7 +12,7 @@ We have also included jpg mock ups of the pages. Our usual working practice is t
 
 
 Key deliverables:
-  - Candidate should provide a link to a version controlled reposity (git, svn etc.)
+  - Candidate should provide a link or zip to a version controlled repository (git, svn etc.)
   - Project should be able to be run on a local environment easily  any installation instructions should be included in the readme  (if it required any specific environment which isn’t node or http server please include container or virtualization as well).
   - Project should be responsive.
   - Not all elements are required, please focus on your strengths and show us your creativity.
